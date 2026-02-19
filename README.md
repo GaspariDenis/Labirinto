@@ -12,3 +12,6 @@
 - La grafica applicata all'ambiente esterno al labirinto
 - Una tematica del gioco
 - Altre vostre idee per migliorare il gioco in se
+
+# Problemi
+- Non riesco a pushare 1.6GB di cartella nella repository remota a causa della mia connessione.
